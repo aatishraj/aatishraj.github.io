@@ -1,7 +1,7 @@
 - layout: left
   name: Rochester Intitute of Technology
   dates: 2009 - 2012
-  qualification: Master of Science in Computer Science
+  qualification: MSc Computer Science
   quote: >
     Established in 1829, Rochester Institute of Technology (RIT) is a private research university in the town of Henrietta in the Rochester, New York metropolitan area.
   # description: | # this will include new lines to allow paragraphs
@@ -12,7 +12,7 @@
 - layout: left
   name: University of Mumbai
   dates: 2005 - 2008
-  qualification: Bachelor of Engineering in Computer Engineering
+  qualification: BE Computer Engineering
   quote: >
     Established in 1857, University of Mumbai, informally known as Mumbai University (MU) (formally known as University of Bombay) is a collegiate public state university located in Mumbai, Maharashtra.
   # description: | # this will include new lines to allow paragraphs
