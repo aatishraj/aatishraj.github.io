@@ -7,10 +7,11 @@
     - title: Site Reliability Engineer
       dates: November 2014 - October 2018
   quote: >
-   With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay connected and communicate.
+    With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay connected and communicate.
   description: | # this will include new lines to allow paragraphs
-    Force Team. Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers.
-    Provide Operational Support for Yahoo! Mail infrastructure working with a team of Service Reliability Engineers.
+    - Working as a Production Engineer in MetaData team. ​Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers. ​This is one of the most critical components of Yahoo Mail. Strict SLAs to follow to make sure uptime ~ 100%.
+    - Built useful tools in Python to automate job and applied troubleshooting skills that helped fix several major outages quickly for which I have received accolades from Director and VP of Yahoo Mail.
+    - Working with Incident Management and swift isolation of root-cause on user impacting issues.
 
 - layout: left
   company: Intuit
@@ -21,7 +22,9 @@
     - title: Business Operations Intern
       dates: January 2011 - September 2011
   quote: >
-   TurboTax is the #1 best-selling tax preparation software to file taxes online. Intuit Brands: QuickBooks, Mint, ProConnect.
+    TurboTax is the #1 best-selling tax preparation software to file taxes online. Intuit Brands: QuickBooks, Mint, ProConnect.
   description: | # this will include new lines to allow paragraphs
-    Provide Operational Support for Desktop Services within the Intuit Core Services, and the Services Fabric space.
-    Provide Operational Support for Tax Season for TurboxTax
+    - Provide Operational Support for Desktop Services within the Intuit Core Services, and participate in Tax Season support and other war-room efforts for all Intuit Core Services.
+    - Managing Perforce Administration tasks, Fortify (a security vulnerabilities software code) for all CTO projects and Dev to Deploy initiative using Jenkins.
+    - Create Monitoring Dashboard for the Business Operations team, analyzing and generating metrics for the live traffic of the external/internal customers.
+    - Coordinate with a diverse range of business units related to a particular application or services, during an incident or general maintenance.
