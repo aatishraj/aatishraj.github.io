@@ -7,7 +7,7 @@
     - title: Site Reliability Engineer
       dates: November 2014 - October 2018
   quote: >
-   With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay informed and entertained, communicate and transact. We create new ways for partners around the world to connect.
+   With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay connected and communicate.
   description: | # this will include new lines to allow paragraphs
     Force Team. Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers.
     Provide Operational Support for Yahoo! Mail infrastructure working with a team of Service Reliability Engineers.
