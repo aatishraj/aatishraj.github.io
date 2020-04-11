@@ -1,39 +1,27 @@
 - layout: left
-  company: Verizon Media - Yahoo
+  company: Verizon Media / Yahoo
   link: https://www.verizonmedia.com
-  job_title: Production Engineer
-  dates: October 2018 - Present
+  jobs:
+    - title: Production Engineer
+      dates: October 2018 - Present
+    - title: Site Reliability Engineer
+      dates: November 2014 - October 2018
   quote: >
-   Force Team. Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers.
+   With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay informed and entertained, communicate and transact. We create new ways for partners around the world to connect.
   description: | # this will include new lines to allow paragraphs
-    <work in progress>
-
-- layout: left
-  company: Yahoo
-  link: https://mail.yahoo.com
-  job_title: Site Reliability Engineer
-  dates: November 2014 - October 2018
-  quote: >
-   Provide Operational Support for Yahoo! Mail infrastructure working with a team of Service Reliability Engineers. 
-  description: | # this will include new lines to allow paragraphs
-    <work in progress>
+    Force Team. Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers.
+    Provide Operational Support for Yahoo! Mail infrastructure working with a team of Service Reliability Engineers.
 
 - layout: left
   company: Intuit
   link: https://www.intuit.com
-  job_title: Application Operations Engineer
-  dates: January 2012 - November 2014
+  jobs:
+    - title: Application Operations Engineer
+      dates: January 2012 - November 2014
+    - title: Business Operations Intern
+      dates: January 2011 - September 2011
   quote: >
-   Provide Operational Support for Desktop Services within the Intuit Core Services, and the Services Fabric space.
+   Manage Your Finances, Payments and Employee Payroll with Intuit® QuickBooks. Brands: QuickBooks, TurboTax, Mint, ProConnect.
   description: | # this will include new lines to allow paragraphs
-    <work in progress>
-
-- layout: left
-  company: Intuit - TurboxTax
-  link: https://turbotax.intuit.com
-  job_title: Business Operations Intern
-  dates: January 2011 - September 2011
-  quote: >
-   Provide Operational Support for Tax Season for TurboxTax
-  description: | # this will include new lines to allow paragraphs
-    <work in progress>
+    Provide Operational Support for Desktop Services within the Intuit Core Services, and the Services Fabric space.
+    Provide Operational Support for Tax Season for TurboxTax
