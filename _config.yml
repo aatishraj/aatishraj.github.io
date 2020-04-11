@@ -46,13 +46,10 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: When I'm Not Programming
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in DevOps and Software Engineering some of my other interests and hobbies are:
-   - Playing Guitar
-   - Video Gaming
-   - Cooking
-   - Hiking
+  <mark>Playing Guitar</mark> - <mark>Photography</mark> - <mark>Video Gaming</mark> - <mark>Cooking</mark> - <mark>Hiking</mark>
 
 # Footer
 footer_show_references: false
