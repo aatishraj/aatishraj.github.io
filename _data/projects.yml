@@ -1,0 +1,12 @@
+- layout: top-middle
+  name: Qualifications Summary
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    Areas of Interest: DevOps/Site Reliability Techniques, Support Large-Scale Infrastructure, Monitoring, Root Cause Analysis and System Troubleshooting.
+  description: | # this will include new lines to allow paragraphs
+    Skilled Experience in: 
+     - Python, Bash, PIG, C++
+     - Apache, Hbase, Jetty, Kafka
+     - DNS, TCP/IP, Linux Internals
+     - Chef, Jenkins, Splunk, Git
