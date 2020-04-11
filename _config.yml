@@ -22,7 +22,7 @@ linkedin_username: akalawade
 
 # Additional icon links
 additional_links:
-- title: Resume Link
+- title: Resume link
   icon: fa-git-square
   url: https://github.com/aatishraj/aatishraj.github.io/blob/master/doc/Aatish_Resume.pdf
 
