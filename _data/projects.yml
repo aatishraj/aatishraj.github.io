@@ -5,9 +5,6 @@
   quote: >
     Summary of areas of interest and technologies, languages and concepts I have acquired knowledge of in this industry over the years.
   description: | # this will include new lines to allow paragraphs
-    - Experience in DevOps/Site Reliability Techniques and Production Support for Large-Scale Infrastructure.
-    - Exposure to System Troubleshooting, Root Cause Analysis, User Experience Monitoring and Edge Services.
-
     **Technical Skills**: 
     | Type | Description |
     | --- | --- |
@@ -20,3 +17,6 @@
     | Web Services | Apache, Jetty, Kafka, Tomcat, Nginx |
     | DevOps Tools | Splunk, Jira, Git, Google APIs |
     | Platforms | Bare-metal, OpenStack |
+
+    - Experience in DevOps/Site Reliability Techniques and Production Support for Large-Scale Infrastructure.
+    - Exposure to System Troubleshooting, Root Cause Analysis, User Experience Monitoring and Edge Services.
