@@ -26,11 +26,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aatish. My passion lies in providing the best Customer Experience possible. Love all things Operational. 
 
-  Currently working as a Production Engineer at Verizon Media within Yahoo Mail, prior to which, I have worked at a number of companies gaining teamwork and leadership skills, 
+  Currently working as a Production Engineer at Verizon Media within Yahoo Mail, prior to which, I have worked at a number of companies gaining teamwork and leadership skills.
   
   Areas of interest: 
    - DevOps/Site Reliability techniques
-   - Production support for Large-Scale Infrastructure
+   - Support Large-Scale Infrastructure
    - User Experience Monitoring
    - System Troubleshooting
 
