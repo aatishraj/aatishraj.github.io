@@ -5,20 +5,26 @@ favicon: images/favicon.ico
 # Personal info
 name: Aatishraj Kalawade
 title: Systems / DevOps / Site Reliabilty Engineer
-email: aatishraj@gmail.com
+# email: aatishraj@gmail.com
 # website: https://aatishraj.github.io
 
 # Social links
 # twitter_username: facespics
 github_username:  aatishraj
 # dribbble_username: jekyll
-facebook_username: aatishraj
+# facebook_username: aatishraj
 # flickr_username: jekyll
-instagram_username: aatishraj
+# instagram_username: aatishraj
 linkedin_username: akalawade
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
+
+# Additional icon links
+additional_links:
+- title: email
+  icon: fa-file-alt
+  url: https://google.com
 
 # About Section
 # about_title: About Me
