@@ -24,9 +24,13 @@ linkedin_username: akalawade
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aatish and I'm a Systems/DevOps/Site Reliabilty Engineer, whatever the flavor of the year is. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Aatish. My passion lies in providing the best Customer Experience possible. Love all things Operational. I have worked at a number of companies gaining teamwork and leadership skills.
+  
+  A graduate from Rochester Institute of Technology with M.Sc. Computer Science, currently working as a Production Engineer at Verizon Media within Yahoo Mail.
 
-  I am most skilled in: <mark>Python</mark> and <mark>System Troubleshooting</mark>
+  Areas of interest: <mark>DevOps</mark>  <mark>Large-Scale Infrastructure</mark> <mark>User Experience</mark> <mark>Monitoring</mark> and <mark>System Troubleshooting</mark> 
+
+  Well-versed knowledge in: <mark>Python</mark> <mark>Bash</mark> <mark>DNS</mark> <mark>TCP/IP</mark> <mark>Apache</mark> <mark>Hbase</mark> <mark>Jetty</mark> <mark>Linux Internals</mark> <mark>Splunk</mark> <mark>Chef</mark> <mark>Jenkins</mark> <mark>Git</mark>
 
 # Projects Section
 # projects_title: Projects
