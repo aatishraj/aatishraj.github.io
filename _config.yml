@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: When I'm Not Programming
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in DevOps and Software Engineering some of my other interests & hobbies are: Playing Guitar, Photography, Video Gaming, Hiking.
+  Alongside my interests in DevOps and Software Engineering some of my other interests & hobbies are: Playing Guitar, Photography, Video Gaming and Hiking.
 
 # Footer
 footer_show_references: false
