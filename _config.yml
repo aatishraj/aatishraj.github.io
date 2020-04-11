@@ -65,7 +65,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: aatishraj/aatishraj.github.io
 
 sass:
   sass_dir: _sass
