@@ -40,8 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
    - DNS, TCP/IP
    - Apache, Hbase, Jetty, Kafka
    - Linux Internals
-   - Splunk
-   - Chef, Jenkins
+   - Chef, Jenkins, Splunk
 
 
 # Projects Section
