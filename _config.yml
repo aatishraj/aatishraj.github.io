@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: aatishraj/aatishraj.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Aatishraj Kalawade
+title: Systems Engineer / DevOps / Site Reliabilty Engineer
+email: aatishraj@gmail.com
+website: https://aatishraj.github.io
 
 # Social links
 twitter_username: facespics
