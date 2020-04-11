@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Aatishraj Kalawade
-title: Systems Engineer / DevOps / Site Reliabilty Engineer
+title: Systems / DevOps / Site Reliabilty Engineer
 email: aatishraj@gmail.com
 website: https://aatishraj.github.io
 
@@ -15,7 +15,7 @@ github_username:  aatishraj
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: aatishraj
+linkedin_username: akalawade
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,7 +24,7 @@ linkedin_username: aatishraj
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aatish and I'm a Systems/DevOps/Site Reliabilty Engineer, whatever the flavor year is. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Aatish and I'm a Systems/DevOps/Site Reliabilty Engineer, whatever the flavor of the year is. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Python</mark> and <mark>System Troubleshooting</mark>
 
