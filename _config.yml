@@ -21,18 +21,20 @@ linkedin_username: akalawade
 # googleplus_username: +jekyll
 
 # Additional icon links
-additional_links:
-- title: Resume link
-  icon: fa-git-square
-  url: https://github.com/aatishraj/aatishraj.github.io/blob/master/doc/Aatish_Resume.pdf
+# additional_links:
+# - title: Resume link
+#   icon: fa-git-square
+#   url: https://github.com/aatishraj/aatishraj.github.io/blob/master/doc/Aatish_Resume.pdf
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Aatish, I’m a DevOps Engineer with over 10 years experience, based in the Bay Area. I am currently working for Verizon Media within Yahoo Mail as a Production Engineer on the Metadata Cache and Search platform.
+  Hi, my name is Aatish, I’m a DevOps Engineer with over 10 years experience, based in the Bay Area. 
 
-  Born and raised in Mumbai, where I complted my schoolong anf undergraduate degree after which I moved to the United States in 2009 to pursue my graduate degree in Computer Science.
+  I am currently working for Verizon Media within Yahoo Mail as a Production Engineer on the Metadata Cache and Search platform.
+
+  Born and raised in Mumbai, where I completed my schooling and undergraduate degree, after which I moved to the United States in 2009 to pursue my graduate degree in Computer Science.
 
   My passion lies in providing the best Customer Support Experience possible. I have worked with a range of different languages and  technology stacks and I am always looking for opportunities to work with something new.
 
