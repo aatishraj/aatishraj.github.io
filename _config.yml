@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Aatishraj Kalawade
 title: Systems / DevOps / Site Reliabilty Engineer
-# email: aatishraj@gmail.com
+email: aatishraj@gmail.com
 # website: https://aatishraj.github.io
 
 # Social links
@@ -32,15 +32,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Aatish, I’m a DevOps Engineer with over 10 years experience, based in the Bay Area. I am currently working for Verizon Media within Yahoo Mail as a Production Engineer on the Metadata Cache and Search platform.
 
-  Born and raised in Mumbai, I moved to the United States of America in 2009 to pursue my Post Graduation Degree in Computer Science.
+  Born and raised in Mumbai, where I complted my schoolong anf undergraduate degree after which I moved to the United States in 2009 to pursue my graduate degree in Computer Science.
 
   My passion lies in providing the best Customer Support Experience possible. I have worked with a range of different languages and  technology stacks and I am always looking for opportunities to work with something new.
 
 # Projects Section
-projects_title: Experience Summary
+projects_title: Experience
 
 # Experience Section
-experience_title: Employment History
+experience_title: Employment
 
 # Education Section
 # educaton_title: Education
