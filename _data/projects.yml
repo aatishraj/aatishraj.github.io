@@ -11,14 +11,26 @@
     
     **Technical Skills**: 
 
-    | Description | Name |
-    | --- | --- |
-    | Languages | Python, Bash, PIG, C++ |
-    | Operating System | Red Hat Linux, FreeBSD |
-    | Database | Hbase, MySQL |
-    | Configuration Tools | Chef, Jenkins |
-    | Concepts | DNS, Linux Internals |
-    | Network Protocols | TCP/IP, SMTP, IMAP |
-    | Web Services | Apache, Jetty, Kafka, Tomcat, Nginx |
-    | DevOps Tools | Splunk, Jira, Git, Google APIs |
-    | Platforms | Bare-metal, OpenStack |
+    ```json
+      "Languages": "Python, Bash, PIG, C++",
+      "Operating System": "Red Hat Linux, FreeBSD",
+      "Database": "Hbase, MySQL",
+      "Configuration Tools": "Chef, Jenkins",
+      "Concepts": "DNS, Linux Internals",
+      "Network Protocols": "TCP/IP, SMTP, IMAP",
+      "Web Services": "Apache, Jetty, Kafka, Tomcat, Nginx",
+      "DevOps Tools": "Splunk, Jira, Git, Google APIs",
+      "Platforms": "Bare-metal, OpenStack"
+    ```
+
+# | Description | Name |
+# | --- | --- |
+# | Languages | Python, Bash, PIG, C++ |
+# | Operating System | Red Hat Linux, FreeBSD |
+# | Database | Hbase, MySQL |
+# | Configuration Tools | Chef, Jenkins |
+# | Concepts | DNS, Linux Internals |
+# | Network Protocols | TCP/IP, SMTP, IMAP |
+# | Web Services | Apache, Jetty, Kafka, Tomcat, Nginx |
+# | DevOps Tools | Splunk, Jira, Git, Google APIs |
+# | Platforms | Bare-metal, OpenStack |
