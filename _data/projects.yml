@@ -9,7 +9,7 @@
     
     Exposure to System Troubleshooting, Root Cause Analysis, User Experience Monitoring and Edge Services.
     
-    **Technical Skills**
+    >**Technical Skills** ||
     >
     > **Languages**: Python, Bash, PIG, C++ || 
     > **Operating System**: Red Hat Linux, FreeBSD || 
@@ -19,7 +19,7 @@
     > **Network Protocols**: TCP/IP, SMTP, IMAP || 
     > **Web Services**: Apache, Jetty, Kafka, Tomcat || 
     > **DevOps Tools**: Splunk, Jira, Git, Google APIs || 
-    > **Platforms**: Bare-metal, OpenStack || 
+    > **Platforms**: Bare-metal, OpenStack
 
 # | Description | Name |
 # | --- | --- |
