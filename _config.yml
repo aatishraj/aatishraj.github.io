@@ -39,10 +39,10 @@ about_content: | # this will include new lines to allow paragraphs
   My passion lies in providing the best Customer Support Experience possible. I have worked with a range of different languages and  technology stacks and I am always looking for opportunities to work with something new.
 
 # Projects Section
-projects_title: Experience
+projects_title: Work Experience
 
 # Experience Section
-experience_title: Employment
+experience_title: Technical Skills
 
 # Education Section
 # educaton_title: Education
@@ -50,7 +50,11 @@ experience_title: Employment
 # More Section
 more_title: When I'm Not Programming
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in DevOps and Software Engineering some of my other interests & hobbies are: Playing Guitar, Photography, Video Gaming and Hiking.
+  Alongside my interests in DevOps and Software Engineering some of my other interests & hobbies are: 
+    - Playing Guitar
+    - Photography
+    - Video Gaming
+    - Hiking
 
 # Footer
 footer_show_references: false
