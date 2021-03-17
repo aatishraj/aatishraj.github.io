@@ -7,7 +7,7 @@
     Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs. 
   description: | # this will include new lines to allow paragraphs
     - Part of the LDAP core team that helps and supports all internal and external membership authentication.
-    - Own end-to-end development and operational environment, a​ dhering to strict SLA, internal tools and manage ticketing systems.​
+    - Own end-to-end development and operational environment, adhering to strict SLA, internal tools and manage ticketing systems.
 
 - layout: left
   company: Verizon Media / Yahoo
@@ -20,7 +20,7 @@
   quote: >
     With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay connected and communicate.
   description: | # this will include new lines to allow paragraphs
-    - Working as a Production Engineer in MetaData team. ​Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers. ​This is one of the most critical components of Yahoo Mail. Strict SLAs to follow to make sure uptime ~ 100%.
+    - Working as a Production Engineer in MetaData team. Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers. This is one of the most critical components of Yahoo Mail. Strict SLAs to follow to make sure uptime ~ 100%.
     - Built useful tools in Python to automate job and applied troubleshooting skills that helped fix several major outages quickly for which I have received accolades from Director and VP of Yahoo Mail.
     - Working with Incident Management and swift isolation of root-cause on user impacting issues.
 
