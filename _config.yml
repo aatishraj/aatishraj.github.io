@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Aatishraj Kalawade
-title: Systems / DevOps / Site Reliabilty Engineer
+title: Senior Site Reliabilty Engineer
 email: aatishraj@gmail.com
 # website: https://aatishraj.github.io
 
@@ -30,9 +30,9 @@ linkedin_username: akalawade
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Aatish, I’m a DevOps Engineer with over 10 years experience, based in the Washington D.C. Metro Area. 
+  Hi, my name is Aatish, I’m a Senior Site Reliability Engineer with over 10 years experience. 
 
-  I am currently working for Amazon Web Services as a Systems Engineer.
+  I am currently working for LinkedIn.
 
   Born and raised in Mumbai, where I completed my schooling and undergraduate degree, after which I moved to the United States in 2009 to pursue my graduate degree in Computer Science.
 
