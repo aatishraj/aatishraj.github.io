@@ -20,15 +20,15 @@
     - Own end-to-end development and operational environment, adhering to strict SLA, internal tools and manage ticketing systems.
 
 - layout: left
-  company: Verizon Media / Yahoo
-  link: https://www.verizonmedia.com
+  company: Yahoo / Verizon Media
+  link: https://www.yahoo.com
   jobs:
     - title: Production Engineer
       dates: October 2018 - August 2020
     - title: Site Reliability Engineer
       dates: November 2014 - October 2018
   quote: >
-    With brands like Yahoo, HuffPost and TechCrunch, Verizon Media transforms how people stay connected and communicate.
+    Yahoo! is a public corporation that offers a multitude of Internet services to users all around the world.
   description: | # this will include new lines to allow paragraphs
     - Working as a Production Engineer in MetaData team. Next generation metadata and search platform for Yahoo! Mail using HBase over NetApp Filers. This is one of the most critical components of Yahoo Mail. Strict SLAs to follow to make sure uptime ~ 100%.
     - Built useful tools in Python to automate job and applied troubleshooting skills that helped fix several major outages quickly for which I have received accolades from Director and VP of Yahoo Mail.
