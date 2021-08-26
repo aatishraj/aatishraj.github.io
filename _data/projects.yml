@@ -1,8 +1,18 @@
 - layout: left
+  company: LinkedIn
+  link: https://www.linkedin.com
+  job_title: Senior Site Reliability Engineer
+  dates: October 2021 - Present
+  quote: >
+    LinkedIn is the world's largest professional network on the internet.
+  description: | # this will include new lines to allow paragraphs
+    - TBD
+
+- layout: left
   company: Amazon Web Services
   link: https://aws.amazon.com
-  job_title: Systems Engineer
-  dates: August 2020 - Present
+  job_title: Systems Development Engineer
+  dates: August 2020 - October 2021
   quote: >
     Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs. 
   description: | # this will include new lines to allow paragraphs
