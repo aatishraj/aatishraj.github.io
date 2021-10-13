@@ -30,9 +30,9 @@ linkedin_username: akalawade
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Aatish, I’m a Senior Site Reliability Engineer with over 10 years experience. 
+  Hi, my name is Aatish and I am an Engineer with over 10 years industry experience. 
 
-  I am currently working for LinkedIn.
+  I am currently working at LinkedIn as a Senior Site Reliabilty Engineer.
 
   Born and raised in Mumbai, where I completed my schooling and undergraduate degree, after which I moved to the United States in 2009 to pursue my graduate degree in Computer Science.
 
@@ -52,6 +52,7 @@ more_title: When I'm Not Programming
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in DevOps and Software Engineering some of my other interests & hobbies are: 
     - Playing Guitar
+    - Dancing
     - Photography
     - Video Gaming
     - Hiking
