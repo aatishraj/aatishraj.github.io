@@ -7,7 +7,7 @@
     LinkedIn is the world's largest professional network on the internet.
   description: | # this will include new lines to allow paragraphs
     - My team worked to ensure site resiliency for LinkedIn, specifically the Jobs Portal and Recruiter tooling.
-    - Primary work included scaling/load testing, Python automation, and supporting the Product software development teams.
+    - Primary work included large scaling infrastructure load testing, Python automation, and supporting the Product software development teams.
 
 - layout: left
   company: Amazon Web Services
