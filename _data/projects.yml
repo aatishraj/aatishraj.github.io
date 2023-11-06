@@ -2,11 +2,12 @@
   company: LinkedIn
   link: https://www.linkedin.com
   job_title: Senior Site Reliability Engineer
-  dates: November 2021 - Present
+  dates: November 2021 - December 2023
   quote: >
     LinkedIn is the world's largest professional network on the internet.
   description: | # this will include new lines to allow paragraphs
-    - TBD
+    - My team worked to ensure site resiliency for LinkedIn, specifically the Jobs Portal and Recruiter tooling.
+    - Primary work included scaling/load testing, Python automation, and supporting the Product software development teams.
 
 - layout: left
   company: Amazon Web Services
