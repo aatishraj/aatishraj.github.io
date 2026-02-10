@@ -1,32 +1,16 @@
 - layout: top-middle
-  # name: Qualifications Summary
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
   quote: >
-    Summary of areas of interest and technologies, languages and concepts I have acquired knowledge of in this industry over the years.
-  description: | # this will include new lines to allow paragraphs
-    Experience in DevOps/Site Reliability Techniques and Production Support for Large-Scale Infrastructure.
-    
-    Exposure to System Troubleshooting, Root Cause Analysis, User Experience Monitoring and Edge Services.
+    Software / DevOps Engineering skillset focused on production operations, automation, and reliability for large-scale infrastructure.
+  description: |
+    Proven experience supporting and improving production services through incident response, root cause analysis, and operational automation.
+    Strong troubleshooting depth across Linux systems and core networking.
 
-    > **Languages**: Python, Bash, PIG, C++ || 
-    > **Operating System**: Red Hat Linux, FreeBSD || 
-    > **Database**: Hbase, MySQL || 
-    > **Configuration Tools**: Chef, Jenkins || 
-    > **Concepts**: DNS, Linux Internals || 
-    > **Network Protocols**: TCP/IP, SMTP, IMAP || 
-    > **Web Services**: Apache, Jetty, Kafka, Tomcat || 
-    > **DevOps Tools**: Splunk, Jira, Git, Google APIs || 
-    > **Platforms**: Bare-metal, OpenStack ||
-
-# | Description | Name |
-# | --- | --- |
-# | Languages | Python, Bash, PIG, C++ |
-# | Operating System | Red Hat Linux, FreeBSD |
-# | Database | Hbase, MySQL |
-# | Configuration Tools | Chef, Jenkins |
-# | Concepts | DNS, Linux Internals |
-# | Network Protocols | TCP/IP, SMTP, IMAP |
-# | Web Services | Apache, Jetty, Kafka, Tomcat, Nginx |
-# | DevOps Tools | Splunk, Jira, Git, Google APIs |
-# | Platforms | Bare-metal, OpenStack |
+    **Languages**: Python, Bash, C++
+    **Operating Systems**: Red Hat Enterprise Linux, FreeBSD
+    **Datastores**: HBase, MySQL
+    **CI/CD & Config**: Jenkins, Chef
+    **Systems & Concepts**: DNS, Linux internals
+    **Networking**: TCP/IP
+    **Services / Middleware**: Kafka, Apache (HTTPD)
+    **Tooling**: Splunk, Jira, Git
+    **Platforms**: Bare metal, OpenStack
